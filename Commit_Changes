@@ -1,4 +1,4 @@
 #!/bin/bash
-git add *
-git commit -m 'auto updated file'
-git push origin master
+sudo git add *
+sudo git commit -m 'auto updated file'
+sudo git push origin master
